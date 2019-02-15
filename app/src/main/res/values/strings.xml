@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Thuật Xử Thế</string>
+    <string name="admob_app_id">ca-app-pub-2625335291776359~5853933193</string>
+    <string name="admob_id">ca-app-pub-2625335291776359/3905701321</string>
+
+    <!--other-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
+    <string name="todo">TODO</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

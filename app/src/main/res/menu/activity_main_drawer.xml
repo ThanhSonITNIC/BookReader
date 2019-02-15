@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_vote"
+        android:icon="@drawable/rate"
+        android:title="Đánh giá" />
+    <item
+        android:id="@+id/nav_fb"
+        android:icon="@drawable/fb"
+        android:title="Trang Facebook" />
+    <item
+        android:id="@+id/nav_seemore"
+        android:icon="@drawable/more"
+        android:title="Xem thêm" />
+
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Cài đặt"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_fullscreen"
+        android:orderInCategory="100"
+        android:title="Toàn màn hình"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_autoscroll"
+        android:orderInCategory="100"
+        android:title="Tự động cuộn trang"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/btnSearch"
+        android:icon="@drawable/abc_ic_search_api_material"
+        android:orderInCategory="100"
+        android:title="search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView" />
+
+</menu>

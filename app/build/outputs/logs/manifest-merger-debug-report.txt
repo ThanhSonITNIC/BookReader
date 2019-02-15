@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:17:1-31:12
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\d373fb9a57c746015a14dfeda6d587cd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\43383affff5f8a27b89d6a082e86bc9c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a83b637a3ae38db8199a7e76b12527cf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\ded1f54c9b47f2bfdd4eb1e8939eaff3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\c2921db10660060b7617d6f7faa84137\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\40304d0962b0a03fdf3b3cf08648fff5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ac5e134dd93b5319b969bc12634be60d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9580fe54bdff93286d5ff25c87306146\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ed914e2459cc1169154ce9ef5b76bc1e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\f8b78278e0f31d42cc3f6ff257a0edac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7ffee9b299aae65d70a1f1e0483a04ae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fdb9e467fc6d25d3224cf1390e68caf8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2ac5802adc675b3746c156938b7f3e12\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a98ec8ecbbeefd6f1762df7a893e3c21\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\798f657210b726283d832b9a548b30ac\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e817ac28601a13e77723cd94e1802483\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d59d102944acdd691d92c04980b41a0a\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:3:5-64
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:6:5-37:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a83b637a3ae38db8199a7e76b12527cf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a83b637a3ae38db8199a7e76b12527cf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\ded1f54c9b47f2bfdd4eb1e8939eaff3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\ded1f54c9b47f2bfdd4eb1e8939eaff3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\c2921db10660060b7617d6f7faa84137\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\c2921db10660060b7617d6f7faa84137\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\40304d0962b0a03fdf3b3cf08648fff5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\40304d0962b0a03fdf3b3cf08648fff5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ac5e134dd93b5319b969bc12634be60d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ac5e134dd93b5319b969bc12634be60d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9580fe54bdff93286d5ff25c87306146\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9580fe54bdff93286d5ff25c87306146\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ed914e2459cc1169154ce9ef5b76bc1e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ed914e2459cc1169154ce9ef5b76bc1e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\f8b78278e0f31d42cc3f6ff257a0edac\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\f8b78278e0f31d42cc3f6ff257a0edac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7ffee9b299aae65d70a1f1e0483a04ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7ffee9b299aae65d70a1f1e0483a04ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fdb9e467fc6d25d3224cf1390e68caf8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fdb9e467fc6d25d3224cf1390e68caf8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2ac5802adc675b3746c156938b7f3e12\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2ac5802adc675b3746c156938b7f3e12\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a98ec8ecbbeefd6f1762df7a893e3c21\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a98ec8ecbbeefd6f1762df7a893e3c21\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\798f657210b726283d832b9a548b30ac\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\798f657210b726283d832b9a548b30ac\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e817ac28601a13e77723cd94e1802483\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e817ac28601a13e77723cd94e1802483\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d59d102944acdd691d92c04980b41a0a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d59d102944acdd691d92c04980b41a0a\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.itnic.thanhson.readbooktuthulanhdaothuatxuthe.MainActivity
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:16:13-45
+	android:configChanges
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:15:13-59
+	android:theme
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:14:13-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:20:27-74
+service#com.itnic.thanhson.readbooktuthulanhdaothuatxuthe.MyNewIntentService
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:24:9-27:19
+	android:exported
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:25:13-96
+receiver#com.itnic.thanhson.readbooktuthulanhdaothuatxuthe.MyReceiver
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:30:13-88
+activity#com.itnic.thanhson.readbooktuthulanhdaothuatxuthe.SettingActivity
+ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:35:9-36:62
+	android:configChanges
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:36:13-59
+	android:name
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml:35:19-99
+uses-sdk
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:21:5-23:62
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\d373fb9a57c746015a14dfeda6d587cd\AndroidManifest.xml:7:5-9:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\d373fb9a57c746015a14dfeda6d587cd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\43383affff5f8a27b89d6a082e86bc9c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\43383affff5f8a27b89d6a082e86bc9c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a83b637a3ae38db8199a7e76b12527cf\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a83b637a3ae38db8199a7e76b12527cf\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\ded1f54c9b47f2bfdd4eb1e8939eaff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\ded1f54c9b47f2bfdd4eb1e8939eaff3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\c2921db10660060b7617d6f7faa84137\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\c2921db10660060b7617d6f7faa84137\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\40304d0962b0a03fdf3b3cf08648fff5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\40304d0962b0a03fdf3b3cf08648fff5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ac5e134dd93b5319b969bc12634be60d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ac5e134dd93b5319b969bc12634be60d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9580fe54bdff93286d5ff25c87306146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9580fe54bdff93286d5ff25c87306146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ed914e2459cc1169154ce9ef5b76bc1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ed914e2459cc1169154ce9ef5b76bc1e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\f8b78278e0f31d42cc3f6ff257a0edac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\f8b78278e0f31d42cc3f6ff257a0edac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7ffee9b299aae65d70a1f1e0483a04ae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7ffee9b299aae65d70a1f1e0483a04ae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fdb9e467fc6d25d3224cf1390e68caf8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fdb9e467fc6d25d3224cf1390e68caf8\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2ac5802adc675b3746c156938b7f3e12\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2ac5802adc675b3746c156938b7f3e12\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a98ec8ecbbeefd6f1762df7a893e3c21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a98ec8ecbbeefd6f1762df7a893e3c21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\798f657210b726283d832b9a548b30ac\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\798f657210b726283d832b9a548b30ac\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e817ac28601a13e77723cd94e1802483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e817ac28601a13e77723cd94e1802483\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d59d102944acdd691d92c04980b41a0a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d59d102944acdd691d92c04980b41a0a\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\Android\ReadBooks v2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a83b637a3ae38db8199a7e76b12527cf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a83b637a3ae38db8199a7e76b12527cf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\ded1f54c9b47f2bfdd4eb1e8939eaff3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\ded1f54c9b47f2bfdd4eb1e8939eaff3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ac5e134dd93b5319b969bc12634be60d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ac5e134dd93b5319b969bc12634be60d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9580fe54bdff93286d5ff25c87306146\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9580fe54bdff93286d5ff25c87306146\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ed914e2459cc1169154ce9ef5b76bc1e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\ed914e2459cc1169154ce9ef5b76bc1e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7ffee9b299aae65d70a1f1e0483a04ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7ffee9b299aae65d70a1f1e0483a04ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fdb9e467fc6d25d3224cf1390e68caf8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fdb9e467fc6d25d3224cf1390e68caf8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2ac5802adc675b3746c156938b7f3e12\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2ac5802adc675b3746c156938b7f3e12\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a98ec8ecbbeefd6f1762df7a893e3c21\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a98ec8ecbbeefd6f1762df7a893e3c21\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\798f657210b726283d832b9a548b30ac\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\798f657210b726283d832b9a548b30ac\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e817ac28601a13e77723cd94e1802483\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e817ac28601a13e77723cd94e1802483\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d59d102944acdd691d92c04980b41a0a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\d59d102944acdd691d92c04980b41a0a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\8fb891425c015217ca451cdf20c72ba2\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\90b6008a6de4ae73464b177433c86b8a\AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4747791e8263a640da7cfd4590b3f9a8\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ThanhSon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\93f15c8ea327a38cf44561f7497e2d66\AndroidManifest.xml:26:13-58

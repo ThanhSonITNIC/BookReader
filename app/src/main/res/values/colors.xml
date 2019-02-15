@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">?attr/colorPrimary</color> <!--tool bar-->
+    <color name="colorPrimaryDark">?attr/colorPrimaryDark</color> <!--bar header-->
+    <color name="colorAccent">?attr/colorAccent</color> <!--front controls-->
+</resources>

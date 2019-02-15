@@ -1,0 +1,4 @@
+#Fri May 11 15:17:58 ICT 2018
+base.0=E\:\\Project\\Android\\ReadBooks v2\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

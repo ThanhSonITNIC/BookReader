@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541829602229",
+    "firebase_url": "https://books-0203.firebaseio.com",
+    "project_id": "books-0203",
+    "storage_bucket": "books-0203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541829602229:android:2193b3d5be2185b0",
+        "android_client_info": {
+          "package_name": "com.itnic.thanhson.readbooktuthulanhdaothuatxuthe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541829602229-8nomnu2en5n44aae7kg0sk22mpkiv0ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAObace6G1UNjFysvrzZ2HLgTh-zlg0zQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
